@@ -22,5 +22,19 @@
         { "id": 20, "username": "user20", "email": "user20@example.com", "sport": "Swimming", "city": "Bucuresti" },
         { "id": 21, "username": "user21", "email": "user21@example.com", "sport": "Swimming", "city": "Ploiesti" },
         { "id": 22, "username": "user22", "email": "user22@example.com", "sport": "Running", "city": "Brasov" }
+    ],
+    "workouts": [
+        {"date": "2023-01-01", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-01-05", "duration": 50, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-01-10", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-01-15", "duration": 50, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-02-01", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-02-05", "duration": 50, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-02-10", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-02-15", "duration": 50, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-03-01", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-03-05", "duration": 50, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-03-10", "duration": 60, "userEmail": "mihai@gmail.com"},
+        {"date": "2023-03-15", "duration": 50, "userEmail": "mihai@gmail.com"}
     ]
 }
